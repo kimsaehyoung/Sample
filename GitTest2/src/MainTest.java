@@ -5,6 +5,7 @@ public class MainTest {
 		System.out.println("hellow");
 		System.out.println("world");
 		System.out.println("happy");
+		System.out.println("boomboom");
 
 	}
 
